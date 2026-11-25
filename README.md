@@ -24,6 +24,8 @@ A completed hands-on enterprise network simulation developed in Cisco Packet Tra
 
 ## Network design
 
+![Cisco Packet Tracer network topology](screenshots/01-network-topology.jpeg)
+
 The simulated office includes IT, HR, Finance, Sales, Marketing, Administration and guest wireless networks. Departmental VLANs separate broadcast domains, while inter-VLAN routing and access control policies govern communication.
 
 ## Implementation and validation
@@ -32,9 +34,9 @@ The project covers VLAN creation, trunk configuration, router subinterfaces, IP 
 
 ## Project artifacts
 
-- [Final illustrated technical report (PDF)](Enterprise_Network_Final_Illustrated_Report.pdf)
-- [Cisco Packet Tracer simulation (.pkt)](Enterprise_Network_Project.pkt)
-- [Configuration and verification screenshots](https://github.com/enishr/enterprise-network-infrastructure/tree/main) — 24 original screenshots in the repository.
+- [Final illustrated technical report (PDF)](documentation/Enterprise_Network_Final_Illustrated_Report.pdf)
+- [Cisco Packet Tracer simulation (.pkt)](simulation/Enterprise_Network_Project.pkt)
+- [Configuration and verification screenshots](screenshots/) — 24 original screenshots in the repository.
 
 To explore the simulation, download the `.pkt` file and open it in Cisco Packet Tracer. Consult the technical report for the topology, addressing plan, security policies and validation evidence.
 
