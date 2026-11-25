@@ -32,7 +32,11 @@ The project covers VLAN creation, trunk configuration, router subinterfaces, IP 
 
 ## Project artifacts
 
-The detailed technical report, topology screenshots and supporting evidence are to be added to this repository.
+- [Final illustrated technical report (PDF)](Enterprise_Network_Final_Illustrated_Report.pdf)
+- [Cisco Packet Tracer simulation (.pkt)](Enterprise_Network_Project.pkt)
+- [Configuration and verification screenshots](https://github.com/enishr/enterprise-network-infrastructure/tree/main) — 24 original screenshots in the repository.
+
+To explore the simulation, download the `.pkt` file and open it in Cisco Packet Tracer. Consult the technical report for the topology, addressing plan, security policies and validation evidence.
 
 ## Scope and limitations
 
